@@ -7,7 +7,7 @@
 I am building solid fundamentals in data development and exploring AI data engineering.  
 Interested in and learning about **Data Agent**.  
 
-Reach out via email for any inquiries 🐱
+Reach out to me via email for any communication. 🐱
 
 henry_huang125@163.com (more commonly used) &nbsp;|&nbsp; henryhuang12550@gmail.com
 
