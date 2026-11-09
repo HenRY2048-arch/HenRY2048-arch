@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077BE,100:87CEEB&height=220&section=header&text=HenRY2048-arch&fontSize=80&fontFamily=Bauhaus 93&animation=fadeIn&fontColor=ffffff&fontAlignY=42" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077BE,100:87CEEB&height=220&section=header&text=HenRY2048-arch&fontSize=80&fontFamily=Rockwell&animation=fadeIn&fontColor=ffffff&fontAlignY=42" width="100%" />
 </div>
 
 ## 👨‍💻 About me
